@@ -4,7 +4,7 @@
   <br> I'm Harshal Walunj, Full Stack Web Developer :computer: and Maching Learning Enthusiast :rocket:
 <br>
   <br>
-    <img src="https://lottiefiles.com/55383-web-development-animation" alt="Coder GIF" width="500">
+    <img src="./Assets/55383-web-development-animation.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 
