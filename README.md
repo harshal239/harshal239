@@ -23,11 +23,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Under Construction :construction:
+<hr/>
+<h2 align="center"> Under Construction :construction: </h2>
 
 <!-- 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshal239&count_private=true&show_icons=true&theme=graywhite" alt="harshalwalunj" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harshal239&count_private=true&show_icons=true&theme=graywhite" alt="harshalwalunj" /></p>
 
  <p align="center"> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal239&hide=TeX&layout=compact&theme=graywhite" alt="harshalwalunj" /></p> -->
 
