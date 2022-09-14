@@ -2,7 +2,7 @@
 
 <h1>I am Harshal Walunj</h1>
 
-   - A third-year Information Technology Engineering student from [Pune Institute of Computer Technology](https://pict.edu/).
+   - A Final Year Information Technology Engineering student from [Pune Institute of Computer Technology](https://pict.edu/).
    - I am Full Stack Web Developer and also Cloud and Machine Learning Enthusiast
 
 ## Get In touch
